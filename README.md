@@ -1,7 +1,3 @@
-Based on the details from your resume, here is a README file for your GitHub profile:
-
----
-
 # 👋 Hi, I'm Neelraj S G
 
 **Frontend Developer | Java Full Stack | Software Engineer**
