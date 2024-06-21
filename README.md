@@ -105,5 +105,3 @@ I am a skilled Frontend Developer and Java Full Stack Engineer with extensive ex
 Feel free to explore my repositories and connect with me. Let's create something amazing together!
 
 ---
-
-This README provides a comprehensive overview of your skills, experience, and projects, making it a great introduction for anyone visiting your GitHub profile.
