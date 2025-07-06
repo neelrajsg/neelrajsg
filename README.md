@@ -1,5 +1,6 @@
 👋 Hi, I'm Neelraj S G
-Frontend Developer | Java Full Stack | Software Engineer
+ Software Engineer at LG SOFT India
+ 
 
 📍 Bengaluru, Karnataka, India
 
